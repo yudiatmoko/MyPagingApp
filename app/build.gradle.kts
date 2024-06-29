@@ -136,5 +136,4 @@ dependencies {
     implementation(libs.androidx.paging.runtime.ktx)
     // swipe refresh
     implementation(libs.androidx.swiperefreshlayout)
-
 }
